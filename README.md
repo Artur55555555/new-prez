@@ -1,3 +1,5 @@
+МОЙ ВТОРОЙ РЕПОЗИТОРИЙ //https://github.com/Artur55555555/software-development-technology
+
 конспк #
 # Основные принципы разработки программного обеспечения
 
